@@ -15,6 +15,7 @@ pub mod k_shortest_path;
 pub mod matching;
 pub mod simple_paths;
 pub mod tred;
+pub mod community;
 
 use std::collections::{BinaryHeap, HashMap};
 use std::num::NonZeroUsize;
